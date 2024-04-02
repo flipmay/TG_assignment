@@ -48,4 +48,3 @@ Obstáculos: Portas trancadas, entulho e outros obstáculos podem dificultar a e
 Algoritimo:
 Fluxo máximo: Usado para determinar a rota mais eficiente para evacuar o maior número possível de pessoas no tempo limite.
 Busca em largura: Usada para encontrar todas as rotas possíveis de um vértice para uma saída de emergência.
-Heurísticas: Usadas para tomar decisões rápidas sobre como mover as pessoas de forma eficiente.
